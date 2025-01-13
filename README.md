@@ -52,7 +52,7 @@
 ---
 
 ## 📫 연락처
-- **Email**: [your-email@example.com](mailto:bsy7021@naver.com)  
+- **Email**: [bsy7021@naver.com]
 - **Portfolio**: 
 
 ---
