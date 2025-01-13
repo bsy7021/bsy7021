@@ -35,19 +35,19 @@
 
 ## ✨ 특별 프로젝트
 
-### 🌟 [프로젝트 1: 웹디자인 플랫폼](https://github.com/your-project-link)
-- **개요**: 디자이너와 클라이언트를 연결하는 웹 플랫폼  
-- **주요 기술**: Java, Spring Boot, React, MySQL  
+### 🌟 [프로젝트 1: 흑백요리사 식당 예약 및 리뷰 플랫폼](https://github.com/your-project-link)
+- **개요**: 흑백요리사 출연 요리사 식당 예약 및 리뷰 플랫폼
+- **주요 기술**: Java, JSP, Servlet, HTML5, CSS, MySQL
 - **특징**: 
-  - 실시간 채팅 기능  
-  - 프로젝트 관리 대시보드  
+  - 흑백요리사 출연 요리사 식당 정보 조회
+  - 리뷰 및 평점 시스템
 
-### 🧩 [프로젝트 2: Flutter 기반 모바일 앱](https://github.com/your-project-link)
-- **개요**: 건강 관리 및 운동 기록을 위한 모바일 앱  
-- **주요 기술**: Flutter, Firebase  
+### 🧩 [프로젝트 2: QR오더 및 POS 기능 프로젝트](https://github.com/your-project-link)
+- **개요**: QR오더 및 POS 기능 프로젝트
+- **주요 기술**: Java, SpringBoot, HTML5, CSS, MySQL
 - **특징**: 
-  - 사용자 맞춤형 대시보드  
-  - 알림 기능 및 목표 추적  
+  - 사용자 QR 주문 등 등 등 등 등 
+  
 
 ---
 
