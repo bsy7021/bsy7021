@@ -13,10 +13,10 @@
 ---
 
 ## 🛠️ Skills
-- **프로그래밍 언어**: Java, Python, JavaScript, TypeScript  
-- **프레임워크**: Spring Boot, React, Flutter, Node.js  
-- **개발 도구**: Git, Docker, IntelliJ, VSCode  
-- **데이터베이스**: MySQL, PostgreSQL, MongoDB  
+- **프로그래밍 언어**: Java, JavaScript, HTML, CSS
+- **프레임워크**: Spring, Spring Boot, React, Flutter, Node.js
+- **개발 도구**: Git, VSCode, Eclipse
+- **데이터베이스**: MySQL, Oracle  
 
 ---
 
