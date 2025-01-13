@@ -53,8 +53,7 @@
 
 ## 📫 연락처
 - **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [bsy7021](https://linkedin.com/in/bsy7021)  
-- **Portfolio**: [bsy7021.dev](https://your-portfolio-link.dev)  
+- **Portfolio**: 
 
 ---
 
@@ -63,5 +62,3 @@
 함께 성장하며 더 나은 세상을 만들어가요! 😊  
 
 ---
-
-[📌 GPT Online에서 더 많은 정보 확인하기](https://gptonline.ai/ko/)
