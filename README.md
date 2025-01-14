@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 - **프로그래밍 언어**: Java, JavaScript, HTML, CSS
-- **프레임워크**: Spring, Spring Boot, React, Flutter, Node.js
+- **프레임워크**: Spring, Spring Boot, React, Flutter, Node.js, MyBatis
 - **개발 도구**: Git, VSCode, Eclipse
 - **데이터베이스**: MySQL, Oracle  
 
@@ -68,16 +68,31 @@
 
 ### 🧩 [프로젝트 2: QR오더 및 POS 기능 프로젝트](https://github.com/your-project-link)
 - **개요**: QR오더 및 POS 기능 프로젝트
-- **주요 기술**: Java, SpringBoot, HTML5, CSS, MySQL
+- **주요 기술**: Java, SpringBoot, HTML5, CSS, MySQL, MyBatis
 - **특징**: 
-  - 사용자 QR 주문 등 등 등 등 등 
+  **1. QR 오더 시스템**
   
-
+  - QR 코드를 스캔하여 메뉴 주문 가능
+  - 주문 정보 확인 및 실시간 상태 업데이트
+  - 사용자 친화적인 인터페이스 제공
+  - 결제 기능
+  
+  **2. POS 시스템**
+  
+  - 매장 내 주문 및 결제 관리
+  - 판매 데이터 조회 및 통계 제공
+  - 관리자 페이지를 통한 매장 운영 지원
+  - 주문 내역 관리
+  - 매출 통계 확인
+  
 ---
 
 ## 📫 연락처
 - **Email**: [bsy7021@naver.com]
-- **Portfolio**: 
+- **Portfolio**:
+ [Project 1](https://github.com/bsy7021/MSA9_Food)
+ [Project 2](https://github.com/bsy7021/MSA9_freeorder)
+ [Notion](https://www.notion.so/FullStack-Developer-17ad9378821280078b3ed030ddf2aa25)
 
 ---
 
