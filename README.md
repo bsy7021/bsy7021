@@ -6,69 +6,46 @@
 
 ---
 
-## 🎓 Education
+## 🎓 **Education**
 - **부천대학교 e-비즈니스과 졸업** *(2016.03 ~ 2019.02)*  
 - **웹디자인기능사 자격증 보유**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ **Skills**
+
 ### **Languages**
-- Java, JavaScript, HTML, CSS  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### **Frameworks & Libraries**
-- Spring, Spring Boot, React, Flutter, Node.js, MyBatis  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-F80000?style=flat-square&logo=&logoColor=white)
 
 ### **Databases**
-- MySQL, Oracle  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### **Tools**
-- Git, VSCode, Eclipse  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
 ---
 
-## 🎯 Goals
+## 🎯 **Goals**
 - 사용자 중심의 친화적이고 안정적인 **풀스택 서비스** 개발  
 - **MSA 기반의 효율적인 시스템 설계 및 구현**  
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-</div>
-
-### **Backend**
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/MyBatis-F80000?style=flat-square&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/Restful%20API-6DB33F?style=flat-square&logo=restfulapi&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-</div>
-
-### **Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white">
-</div>
-
----
-
-## ✨ Projects
+## ✨ **Projects**
 
 ### 🌟 [프로젝트 1: 흑백요리사 식당 예약 및 리뷰 플랫폼](https://github.com/your-project-link)
 - **기술 스택**: Java, JSP, HTML5, CSS, MySQL  
@@ -84,16 +61,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsy7021&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsy7021&layout=compact&theme=tokyonight" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=bsy7021&show_icons=true&theme=material-palenight" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsy7021&theme=material-palenight&hide_border=true" alt="GitHub Streak" width="49%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsy7021&layout=pie&theme=material-palenight" alt="Top Languages" width="50%">
 </div>
 
 ---
 
-## 📫 Contact Me
+## 📫 **Contact Me**
 - **Email**: bsy7021@naver.com  
 - **Portfolio**:  
   - [Project 1](https://github.com/bsy7021/MSA9_Food)  
@@ -102,6 +83,6 @@
 
 ---
 
-## 🙌 함께 성장하기
+## 🙌 **함께 성장하기**
 저와 함께 성장하며 새로운 가치를 만들어갈 동료를 찾고 있습니다.  
 협업에 관심 있으시다면 언제든지 연락 주세요! 😊  
