@@ -80,7 +80,7 @@
 - **Portfolio**:  
   - [Project 1](https://github.com/bsy7021/MSA9_Food)  
   - [Project 2](https://github.com/bsy7021/MSA9_freeorder)  
-  - [Project 2](https://github.com/dojinss/freeorder_react)  
+  - [Project 3](https://github.com/dojinss/freeorder_react)  
   - [Notion](https://www.notion.so/FullStack-Developer-17ad9378821280078b3ed030ddf2aa25)  
 
 ---
